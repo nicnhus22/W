@@ -1,0 +1,4 @@
+W
+=
+
+Cordova Application Starter
